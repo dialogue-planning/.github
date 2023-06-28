@@ -8,7 +8,7 @@ Dialogue planning is a subset of task-oriented dialogue agent development that u
 ##  Our Mission
 Despite the 40+ papers in the space, dialogue planning is not widely adopted as the community is missing an accessible and maintainable system for dialogue planning development. We aim to flourish into a centralized hub for creating dialogue planning agents.  
 
-![Current Architecture](./architecture.PNG)
+![Current Architecture](./profile/architecture.PNG)
 
 The basis of our system are `plan4dial` and `contingent-plan-executor`. `plan4dial` takes specification information to build and train and the dialogue agent, and `contingent-plan-executor` (extended from work at IBM) is the dialogue manager used to execute the conversation. We have also built upon this foundation to enhance the development process, resulting in tools at every step of development:  
 
