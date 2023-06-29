@@ -19,4 +19,7 @@ The basis of our system are [plan4dial](https://github.com/dialogue-planning/pla
 
 More projects are to come as we continue to streamline and advance dialogue planning development.
 
+## Join Us
+We welcome suggestions and contributions to `dialogue-planning`! Feel free to use the [discussions](https://github.com/orgs/dialogue-planning/discussions) tab to share your suggestions and ideas.
+
 🤖 Happy chatting! 🤖
