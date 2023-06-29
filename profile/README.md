@@ -14,7 +14,7 @@ The basis of our system are [plan4dial](https://github.com/dialogue-planning/pla
 
 - **Conception:** Use [automatic-entity-extraction](https://github.com/dialogue-planning/automatic-entity-extraction) to generate potential entities to extract (coming soon).
 - **Creation**: Use [plan4dial](https://github.com/dialogue-planning/plan4dial) to specify the agent and determine how entities should be extracted.
-- **Testing:** Use [conversation-alignment](https://github.com/dialogue-planning/conversation-alignment) to assess your agent's capabilities against conversation corpora.  
+- **Testing:** Use [conversation-alignment](https://github.com/dialogue-planning/conversation-alignment) to assess your agent's capabilities against conversation corpora (coming soon).  
 - **Deployment:** Run your agent with a Dockerized setup and deploy it to your website with our embeddable web UI, [widget](https://github.com/dialogue-planning/widget).  
 
 More projects are to come as we continue to streamline and advance dialogue planning development.
